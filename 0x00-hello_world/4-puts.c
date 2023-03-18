@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
 *main- entry point
-*
-*description:A c program to print with puts function
+* 
+*Description: 'the program's description'
 *
 *return: alwyes 0(sucssful)
 */
